@@ -18,7 +18,7 @@ Nếu cổng 9000 đang bận, server sẽ tự đổi sang 9001, 9002...
 → Terminal sẽ in ra URL chính xác, ví dụ:
 Backend http://localhost:9001
 
-Frontend (React + Vite)
+###🎨 2. Frontend (React + Vite)
 cd frontend
 npm install
 npm run dev
